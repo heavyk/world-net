@@ -1,4 +1,4 @@
-*# dear-kyle
+# dear-kyle
 
 ### 2024-03-23 15:51 - stone masonry and beyond
 
